@@ -18,5 +18,5 @@ LinkBrowse is a universal link bypasser for sites such as Linkvertise, Adfly and
 
 For support, email tom@tomjg.cf or DM us on discord!.
 
-Tom: tommyg#9245 & 975468751254331402
-Tenthh: txnthh#0001 & 699922759513276518
+- Tom: tommyg#9245 & 975468751254331402
+- Tenthh: txnthh#0001 & 699922759513276518
